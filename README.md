@@ -14,7 +14,7 @@ Before you begin, ensure you have the following installed on your machine:
 bash
 
 Clone the repository
-git clone <repository-url>
+git clone <https://github.com/mikeoloyede/Fade-qa-test.git>
 
 Navigate to project directory
 cd <project-directory>
